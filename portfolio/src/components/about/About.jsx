@@ -24,7 +24,7 @@ const About = () => {
               <article className='about__card'>
                   <GiGraduateCap className='about__icon'/>
                   <h5>Degree</h5>
-                  <small>Bsc in computer science (UG) <br /><i>Poornaprajna college,udupi</i></small>
+                  <small>Bsc in computer science (UG) <br/>Poornaprajna college,udupi</small>
               </article>
 
               <article className='about__card'>
