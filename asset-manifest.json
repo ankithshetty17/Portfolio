@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ankithshetty17/Portfolio.git/static/css/main.ee3dee55.css",
-    "main.js": "/ankithshetty17/Portfolio.git/static/js/main.e78ce380.js",
+    "main.js": "/ankithshetty17/Portfolio.git/static/js/main.7b0561be.js",
     "static/media/Ankith_cv.pdf": "/ankithshetty17/Portfolio.git/static/media/Ankith_cv.cfc9d193278f71f705ca.pdf",
     "static/media/me-new.png": "/ankithshetty17/Portfolio.git/static/media/me-new.27c0ab1e59a187773aab.png",
     "static/media/img3.jpg": "/ankithshetty17/Portfolio.git/static/media/img3.ccbfab7204623a9f0ac6.jpg",
@@ -10,10 +10,10 @@
     "static/media/img4.jpg": "/ankithshetty17/Portfolio.git/static/media/img4.3546063c1eb48c986518.jpg",
     "index.html": "/ankithshetty17/Portfolio.git/index.html",
     "main.ee3dee55.css.map": "/ankithshetty17/Portfolio.git/static/css/main.ee3dee55.css.map",
-    "main.e78ce380.js.map": "/ankithshetty17/Portfolio.git/static/js/main.e78ce380.js.map"
+    "main.7b0561be.js.map": "/ankithshetty17/Portfolio.git/static/js/main.7b0561be.js.map"
   },
   "entrypoints": [
     "static/css/main.ee3dee55.css",
-    "static/js/main.e78ce380.js"
+    "static/js/main.7b0561be.js"
   ]
 }
